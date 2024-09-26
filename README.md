@@ -1,7 +1,7 @@
 # 🎮 Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me
-Hello! I'm [Your Name], a passionate game developer who loves creating immersive experiences. I specialize in [mention your specialties, e.g., Unity, Unreal Engine, 2D/3D game design, etc.]. My goal is to push the boundaries of gameplay and storytelling.
+Hello! I'm Merijn, a game developer who loves creating games. I specialize in Unity and C#. I currently study at Media College Amsterdam. My goal is to make enjoyable and fun games for everyone.
 
 ## 🚀 Technologies & Tools
 - **Languages:** C#, C++, Python, JavaScript
